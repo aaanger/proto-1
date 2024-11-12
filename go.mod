@@ -1,4 +1,4 @@
-module proto-1
+module github.com/aaanger/proto-1
 
 go 1.22.7
 
